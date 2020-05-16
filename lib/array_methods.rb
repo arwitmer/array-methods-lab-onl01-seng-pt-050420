@@ -10,7 +10,7 @@ using_sort.sort
 end
 
 def using_reverse(array)
-using_reverse = ["Merlin", "Dumbledore", "Gandalf"]
+using_reverse = ["Merlin", "Dumbledore", "arrays!"]
 using_reverse.reverse
 end
 
