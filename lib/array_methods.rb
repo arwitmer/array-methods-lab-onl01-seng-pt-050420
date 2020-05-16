@@ -10,7 +10,7 @@ using_sort.sort
 end
 
 def using_reverse(array)
-
+using_reverse = ["Merlin". ]
 end
 
 def using_first(array)
