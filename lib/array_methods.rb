@@ -20,7 +20,7 @@ using_first.first
 end
 
 def using_last(array)
-using_last = ["arrays!", "wow", "fun"]
+using_last = ["fun", "wow", "arrays!"]
 using_last.last
 end
 
